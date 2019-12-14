@@ -1,7 +1,7 @@
 # Nought-Machine
 Slot machine simulator of a game. 
 
-To play, first you enter the amount of money you would like to start off with, then click the "submit" button. 
+To play, first you enter the amount of money you would like to start off with, then click the "begin" button. 
 
 <p float="center">
   <img src="screenshots/noughtMachineBegin.png"/>
@@ -27,3 +27,5 @@ That will take you to the following panel:
 <p float="center">
   <img src="screenshots/noughtMachineZeroCase.png"/ >
 </p
+
+
