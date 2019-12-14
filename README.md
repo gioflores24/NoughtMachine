@@ -31,6 +31,6 @@ That will take you to the following panel:
 
 To run this program, fork this repo and run
 ```
- java -jar NoughtMachine-1.0-snapshot.jar
+ java -jar NoughtAMachine-1.0-SNAPSHOT.jar
 ``` 
 (**Note**: This project was created with OpenJDK 11.0.2. Be sure you have the right version of Java installed).
