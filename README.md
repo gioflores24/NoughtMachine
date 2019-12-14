@@ -29,7 +29,8 @@ That will take you to the following panel:
 </p
 
 
-To run this program, fork this repo and in target/, run 
+To run this program, fork this repo and run
 ```
- java -jar NoughtMachine.jar
+ java -jar NoughtMachine-1.0-snapshot.jar
 ``` 
+Note: This project was created with OpenJDK 11.0.2. Be sure you have the right version of Java installed.
