@@ -1,4 +1,4 @@
-# Nought-Machine
+# NoughtMachine
 Slot machine simulator of a game. 
 
 To play, first you enter the amount of money you would like to start off with, then click the "begin" button. 
