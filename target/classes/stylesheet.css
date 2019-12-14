@@ -1,0 +1,129 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 25, 2019, 9:31:04 PM
+    Author     : giovanniflores
+*/
+
+.root {
+  /*    -fx-background-color:
+            linear-gradient(#F2F2E9 0%, #DADAD4 25%, #C2C2BD 75%, #A0A09B 100%);*/
+  -fx-background-color: linear-gradient(
+    #f2f2e9 0%,
+    #dadad4 25%,
+    #32a952 75%,
+    #a0a09b 100%
+  );
+
+  /*    -fx-background-image: url("../images/casinoBackground2.jpg");*/
+  /* -fx-background-image: url("casinoBackground2.jpg");*/
+}
+/*
+    //-fx-background-image: url("../images/casinoBackground3.jpg");
+     -fx-background-color: changed from #EEEECE
+    */
+
+#reel {
+  -fx-text-alignment: center;
+  -fx-alignment: center;
+  -fx-pref-width: 800px;
+  -fx-pref-height: 200px;
+  -fx-background-color: #800020;
+  -fx-border-style: solid;
+  -fx-border-width: 4px;
+  -fx-border-color: #eeeece;
+}
+#labelTotal {
+  -fx-display: inline-block;
+  -fx-background-color: #d4af37;
+  -fx-alignment: center;
+  -fx-padding: 15px 25px;
+  -fx-pref-width: 1800px;
+  -fx-pref-height: 60px;
+  -fx-text-alignment: center;
+  -fx-font-family: Helvetica;
+  -fx-font-weight: bold;
+  -fx-font-size: 25px;
+  -fx-text-fill: #000000;
+  -fx-outline: none;
+  -fx-border: none;
+  -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.8), 10, 0, 0, 0);
+  -fx-background-radius: 15px;
+}
+
+#resetButton{
+    
+    -fx-font-family: sans-serif;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-background-color: #EE1111;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0);
+    -fx-text-fill: white;
+    -fx-background-radius: 15px;
+    -fx-border-radius: 5px;
+    -fx-pref-height: 50px;
+    -fx-pref-width: 100px;
+}
+
+#buttons {
+  -fx-font-family: sans-serif;
+  -fx-font-size: 22px;
+  -fx-font-weight: bold;
+  -fx-background-color: #abc007;
+  -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.8), 10, 0, 0, 0);
+  -fx-text-fill: white;
+  -fx-background-radius: 15px;
+  -fx-border-radius: 5px;
+  -fx-pref-height: 50px;
+  -fx-pref-width: 500px;
+}
+#coinButtons {
+  -fx-border-radius: 5px;
+  -fx-text-fill: white;
+  -fx-background-color: #abc007;
+  -fx-font-weight: bold;
+}
+
+#buttons:hover {
+  -fx-background-image: null;
+  -fx-background-color: white;
+  -fx-text-fill: black;
+}
+
+#labelHeading {
+  -fx-alignment: center;
+  -fx-text-alignment: center;
+  -fx-font-family: Arial;
+  -fx-font-weight: bold;
+  -fx-font-style: italic;
+  -fx-font-size: 50px;
+  -fx-text-fill: white;
+  -fx-pref-width: 1800px;
+}
+
+#labelPrompt {
+  -fx-alignment: center;
+  -fx-pref-width: 1400px;
+  -fx-pref-height: 40px;
+  -fx-text-alignment: center;
+  -fx-font-family: Arial;
+  -fx-font-style: italic;
+  -fx-font-weight: bold;
+  -fx-font-size: 35px;
+  -fx-text-fill: #ffffff;
+}
+
+#labelResult {
+  -fx-alignment: center;
+  -fx-pref-width: 1600px;
+  -fx-pref-height: 60px;
+  -fx-text-alignment: center;
+  -fx-font-family: Arial;
+  -fx-font-style: italic;
+  -fx-font-weight: bold;
+  -fx-font-size: 24px;
+  -fx-text-fill: #ffffff;
+}
