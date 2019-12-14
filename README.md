@@ -4,13 +4,13 @@ Slot machine simulator of a game.
 To play, first you enter the amount of money you would like to start off with, then click the "submit" button. 
 
 <p float="center">
-  <img src="exampleImages/noughtMachineImage3.png"/>
+  <img src="screenshots/noughtMachineBegin.png"/>
 </p>                                                 
 
 That will take you to the following panel:
 
 <p float="center">
-  <img src="exampleImages/noughtMachineImage2.png"/>
+  <img src="screenshots/noughtMachinePlay.png"/>
 </p>
 
 
@@ -25,5 +25,5 @@ That will take you to the following panel:
 * If you guess after flipping the coin, you break even. Else, you lose whatever's on the second reel. 
 
 <p float="center">
-  <img src="exampleImages/noughtMachineImage.png"/ >
+  <img src="screenshots/noughtMachineZeroCase.png"/ >
 </p
