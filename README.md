@@ -29,3 +29,7 @@ That will take you to the following panel:
 </p
 
 
+To run this program, fork this repo and in target/, run 
+```
+ java -jar NoughtMachine.jar
+``` 
